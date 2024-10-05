@@ -3,7 +3,7 @@
 <h3 align="center">👋 Hi there! I'm Vivekananda Reddy, a Software Development Engineer at CVS. I specialize in building scalable applications and leveraging modern technologies to solve complex problems. My expertise spans various programming languages and frameworks, with a strong focus on full stack development. 💻 Passionate about clean code and best practices, I enjoy collaborating with cross-functional teams to deliver impactful solutions. 🌟 Let's connect and collaborate!</h3>
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me: **[vivek.lingireddy@gmail.com](mailto:vivek.lingireddy@gmail.com)**
+- 📫 How to reach me: vivek.lingireddy@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
